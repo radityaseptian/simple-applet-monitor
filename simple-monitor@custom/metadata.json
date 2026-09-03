@@ -1,0 +1,6 @@
+{
+    "uuid": "simple-monitor@custom",
+    "name": "Simple System Monitor",
+    "description": "Menampilkan CPU, RAM, dan Suhu secara sederhana",
+    "icon": "utilities-system-monitor"
+}
